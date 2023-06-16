@@ -11,6 +11,10 @@ This project is a hotel booking front end application built using Vue.js. It all
 - Users can cancel bookings.
 - Users can view all their bookings.
 
+## Live Demo
+
+https://hbooking.netlify.app/
+
 ## Prerequisites
 
 Before running the project, ensure that you have the following installed:
