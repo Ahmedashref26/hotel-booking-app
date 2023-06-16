@@ -1,0 +1,13 @@
+html {
+  @apply bg-white;
+
+  body {
+    @apply antialiased overflow-x-hidden font-poppins text-sm text-slate-800;
+    @media (max-width: calc(theme("screens.md") - 1px)) {
+      @apply px-8;
+    }
+    @media (max-width: calc(theme("screens.sm") - 1px)) {
+      @apply px-3;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+.dropdown {
+  @apply w-full lg:max-w-[296px] cursor-pointer;
+  &-btn {
+    @apply flex h-[64px] items-center px-[18px] border border-slate-100 rounded-lg;
+  }
+  &-icon-primary {
+    @apply text-2xl text-secondary;
+  }
+  &-icon-secondary {
+    @apply text-2xl text-secondary ml-auto;
+  }
+  &-menu {
+    @apply px-6 py-8 text-[15px] space-y-6 shadow-md bg-white absolute w-full z-10 list-none rounded-b-lg;
+  }
+}
