@@ -25,7 +25,7 @@ To get the project up and running on your local machine, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone [repository_url]
+   git clone https://github.com/Ahmedashref26/hotel-booking-app
    ```
 
 2. move to project folder:
